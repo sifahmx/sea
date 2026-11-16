@@ -1,0 +1,15 @@
+# Live data: trips, PIN hashes and login sessions. Never commit.
+data/
+
+# Temporary test pages
+_*.html
+
+# Local-only Claude Code settings
+.claude/settings.local.json
+
+# OS / editor clutter
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
+*.tmp
